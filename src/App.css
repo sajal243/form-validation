@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  padding: 10px;
+  background-color: whitesmoke;
+  border-radius: 4px;
+  width: 400px;
+  margin: auto;
+
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+label{
+  text-align: left;
+
+}
+
+input{
+  width: 80%;
+  padding: 4px;
+
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+button{
+  width: 100px;
+  margin: auto;
+  padding: 4px 10px;
+  margin-top: 10px;
+  margin-left: 100px;
+}
